@@ -60,7 +60,9 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true
         }
+        
     },
+    
     "minimum-stability": "stable",
     "prefer-stable": true
 }
